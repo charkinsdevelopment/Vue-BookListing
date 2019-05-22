@@ -40,5 +40,8 @@ export default {
 <style>
 h1, h2 {font-weight:normal;}
 ul {list-style-type:none; padding:0;}
-li {display:block; margin:0 10px;}
+li {display: block;
+    background: #eee;
+    margin: 10px;
+    padding: 5px;}
 </style>
